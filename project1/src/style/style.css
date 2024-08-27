@@ -1,0 +1,28 @@
+div{
+    text-align: center;
+    padding-top: 60px;
+    background-color:#ebdef0;
+    height: 465px;
+}
+button{
+    font-weight: bold;
+    margin: 10px;
+    font-size: medium;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+#add_btn{
+    background-color: #5cb85c;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid #5cb85c;
+}
+#remove_btn{
+    background-color: #d9534f;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid #d9534f;
+}
